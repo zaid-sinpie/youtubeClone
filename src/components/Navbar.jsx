@@ -16,7 +16,7 @@ export default function Navbar() {
             id="ipt"
             type="text"
             placeholder="Search"
-            className=" w-[40rem] outline-none rounded-full py-2 px-4 border-[1px] border-stone-400 bg-[#1f1f1f] font-medium text-stone-50"
+            className=" w-[40rem] outline-none rounded-full py-2 px-4 border border-stone-400 bg-[#0f0f0f] font-medium text-stone-50"
           />
           <i className="fa-solid fa-magnifying-glass absolute top-[0px] right-0 bg-neutral-700 border-stone-400 py-3 px-5 border-[1px] rounded-r-full text-stone-400 cursor-pointer"></i>
         </div>
